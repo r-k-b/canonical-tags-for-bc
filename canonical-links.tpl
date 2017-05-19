@@ -1,5 +1,5 @@
 <!--{% comment -%} Call this directly from Page Template scope like so:
- { module_json json="/site-config.json" template="/_System/assets/partials/canonical-link.tpl" url="{{ url }}"}
+ {ｍodule_json json="/site-config.json" template="/_system/apps/site-assets/public/partials/canonical-link.tpl" url="{{ url }}"}
 
  Homepage: https://github.com/r-k-b/canonical-tags-for-bc
  
