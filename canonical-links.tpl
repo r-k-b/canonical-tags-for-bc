@@ -1,7 +1,7 @@
 <!--{% comment -%} Call this directly from Page Template scope like so:
  { module_json json="/site-config.json" template="/_System/assets/partials/canonical-link.tpl" url="{{ url }}"}
 
- Homepage: https://bitbucket.org/snippets/bigbluedigital/7EReM
+ Homepage: https://github.com/r-k-b/canonical-tags-for-bc
  
  See also: [site-config.json.md](https://bitbucket.org/snippets/bigbluedigital/8L9ee)
 {% endcomment -%}-->
